@@ -6,4 +6,4 @@
 
 **dataset link**: https://www.kaggle.com/datasets/tunguz/big-five-personality-test/data
 
-**Mixalis Kontis repository url**: 
+**Mixalis Kontis repository url**: https://github.com/mkontis/Unsupervised-ML-Personality-Clustering
