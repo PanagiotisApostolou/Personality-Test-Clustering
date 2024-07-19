@@ -1,6 +1,6 @@
 # Personality-Test-Clustering
 
-**Summary**: This data was collected from ***Open Psychometrics*** and are given to us to find different personality types/patterns and create clusters. This dataset contains 1,015,342 questionnaire answers from 223 countries.
+**Summary**: Personalities clustering based on a simple questionnaire that could potentially help recruiters or HR teams better manage their workers or candidates based on their personality traits.
 
 **Team members**: Panagiotis Apostolou and Mixalis Kontis
 
